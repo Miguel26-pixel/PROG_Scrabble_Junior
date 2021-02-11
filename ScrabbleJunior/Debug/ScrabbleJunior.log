@@ -1,0 +1,7 @@
+﻿  Board.cpp
+  Word.cpp
+C:\Users\franc\source\repos\Prog_Project2\ScrabbleJunior\Word.cpp(17,65): warning C4267: 'argument': conversion from 'size_t' to 'const char', possible loss of data
+C:\Users\franc\source\repos\Prog_Project2\ScrabbleJunior\Word.cpp(21,65): warning C4267: 'argument': conversion from 'size_t' to 'const char', possible loss of data
+  Generating Code...
+C:\Users\franc\source\repos\Prog_Project2\ScrabbleJunior\Word.cpp(55): warning C4715: 'Word::validMove': not all control paths return a value
+  ScrabbleJunior.vcxproj -> C:\Users\franc\source\repos\Prog_Project2\Debug\ScrabbleJunior.exe
